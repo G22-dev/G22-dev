@@ -1,6 +1,6 @@
 ### Olá eu sou o Guilherme Pinheiro 👋
 
-[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whiten)](https://wa.me/5585984049498)
+[![WHATSAPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5585984049498)
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![LIKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pinheiro-823833218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
