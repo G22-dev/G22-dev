@@ -8,19 +8,15 @@
 
 * Java     
 * Python
-* PHP
 * JavaScript
 * CSS
 * HTML
-* Node.js
 * Eclipse IDE
-* Laravel
 * VSCode
-* Git
 
 ## Minhas Redes Sociais 
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge)](mailto:Pinheirog972@gmail.com) 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)](https://github.com/G22-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pinheiro-823833218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-g22)
 [![WHATSAPP](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge)](https://wa.me/5585984049498)
