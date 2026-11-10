@@ -2,8 +2,6 @@
 
 👋 Olá, sou estudante na área de Análise e Desenvolvimento de Sistemas há um ano. Tenho uma grande paixão por tecnologia e inovações, e estou sempre em busca de novos conhecimentos para aplicá-los em soluções criativas e eficazes no dia a dia. Acredito que a tecnologia tem o poder de transformar processos e otimizar resultados, e estou comprometido em aprender cada vez mais para contribuir nesse cenário em constante evolução.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=G22-dev&show_icons=true&theme=codeSTACKr)
-
 ## Tecnologias e Ferramentas 🔥
 
 * Java     
